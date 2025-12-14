@@ -17,6 +17,3 @@ This GPT may use Actions to retrieve public information (such as official Border
 
 ## Sharing
 - Data is not sold or shared with third parties.
-
-## Contact
-For privacy questions, contact: YOUR_EMAIL_HERE
